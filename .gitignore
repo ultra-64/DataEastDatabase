@@ -1,0 +1,7 @@
+.vs
+.vscode
+
+packages
+SQLDataAccess/packages
+SQLDataAccess/.vs
+SQLDataAccess/.vscode
